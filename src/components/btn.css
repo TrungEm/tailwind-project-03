@@ -1,10 +1,15 @@
 @layer components {
-    .btn {
+    .btn-account {
         @apply inline-block
-        w-6
-        h-5
+        w-[140px]
+        py-[10px]
+        px-[12px]
         text-center
-        text-orange-500
-        bg-green-500;
+        bg-[#FFF0ED]
+        rounded-sm
+        font-semibold
+        text-xs
+        tracking-[-0.01em]
+        text-[#FF8229];
     }
 }
