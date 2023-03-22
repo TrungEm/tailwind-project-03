@@ -6,9 +6,14 @@
     background: url(../imgs/bg-header.png) no-repeat;
 }
 
+.decorate-01 {
+    background: url(../imgs/abstract-01.png) no-repeat;
+    transform: rotate(-12.42deg);
+}
+
 .container-header {
     width: 1328px;
-    min-width: calc(100vw - 48px);
+    max-width: calc(100vw - 48px);
     margin-left: auto;
     margin-right: auto;
 }
