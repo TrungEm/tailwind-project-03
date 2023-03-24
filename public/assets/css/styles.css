@@ -8,7 +8,16 @@
 
 .decorate-01 {
     background: url(../imgs/abstract-01.png) no-repeat;
+    width: 289px;
+    height: 193px;
     transform: rotate(-12.42deg);
+}
+
+.decorate-02 {
+    background: url(../imgs/abstract-02.png) no-repeat;
+    width: 289px;
+    height: 206px;
+    transform: rotate(7.56deg);
 }
 
 .container-header {
@@ -16,4 +25,16 @@
     max-width: calc(100vw - 48px);
     margin-left: auto;
     margin-right: auto;
+}
+
+.icon-scrool-down {
+    background: url(../imgs/scrool-down.png);
+    width: 73px;
+    height: 85px;
+}
+
+.icon-mouse {
+    background: url(../imgs/mouse.png);
+    width: 56px;
+    height: 56px;
 }
