@@ -6,6 +6,12 @@
     background: url(../imgs/bg-header.png) no-repeat;
 }
 
+.bg-why-us {
+    background: url(../imgs/bg-why-us.png) no-repeat;
+    width: 625px;
+    height: 667px;
+}
+
 .decorate-01 {
     background: url(../imgs/abstract-01.png) no-repeat;
     width: 289px;
@@ -18,6 +24,12 @@
     width: 289px;
     height: 206px;
     transform: rotate(7.56deg);
+}
+
+.decorate-03 {
+    background: url(../imgs/abstract-03.png) no-repeat;
+    width: 289px;
+    height: 206px;
 }
 
 .container-header {
