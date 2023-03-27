@@ -12,4 +12,17 @@
         tracking-[-0.01em]
         text-[#FF8229];
     }
+
+    .btn-features {
+        @apply inline-block
+        w-[134px]
+        py-[12px]
+        text-center
+        bg-[var(--bg-btn)]
+        rounded
+        font-semibold
+        text-sm
+        tracking-[-0.02em]
+        text-white;
+    }
 }

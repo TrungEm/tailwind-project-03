@@ -32,6 +32,12 @@
     height: 206px;
 }
 
+.decorate-04 {
+    background: url(../imgs/abstract-04.png) no-repeat;
+    width: 118px;
+    height: 118px;
+}
+
 .container-header {
     width: 1328px;
     max-width: calc(100vw - 48px);
@@ -49,4 +55,8 @@
     background: url(../imgs/mouse.png);
     width: 56px;
     height: 56px;
+}
+
+.clip-path {
+    clip-path: polygon(0 0, 100% 1%, 100% 100%, 0 95%);
 }
