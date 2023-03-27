@@ -18,6 +18,7 @@ module.exports = {
                 "9xl": "0px 24px 48px rgba(93, 184, 141, 0.08)",
                 "10xl": "0px 8px 10px rgba(84, 95, 122, 0.02)",
                 "11xl": "0px 30px 70px rgba(0, 0, 0, 0.14)",
+                "12xl": "-20px 40px 180px -40px rgba(0, 0, 0, 0.13)",
             },
             textShadow: {
                 "2xl": "-1px 4px 10px rgba(40, 194, 121, 0.4)",

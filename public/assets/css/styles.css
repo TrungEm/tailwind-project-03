@@ -12,6 +12,10 @@
     height: 667px;
 }
 
+.bg-testimonial {
+    background: url(../imgs/bg-testimo.png) no-repeat;
+}
+
 .decorate-01 {
     background: url(../imgs/abstract-01.png) no-repeat;
     width: 289px;
