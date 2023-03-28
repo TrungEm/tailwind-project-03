@@ -16,6 +16,11 @@
     background: url(../imgs/bg-testimo.png) no-repeat;
 }
 
+.bg-footer-1 {
+    background: url(../imgs/bg-footer-1.png) no-repeat;
+    min-height: 557px;
+}
+
 .decorate-01 {
     background: url(../imgs/abstract-01.png) no-repeat;
     width: 289px;
@@ -48,6 +53,18 @@
     height: 206px;
 }
 
+.decorate-06 {
+    background: url(../imgs/abstract-06.png) no-repeat;
+    width: 293px;
+    height: 62px;
+}
+
+.decorate-07 {
+    background: url(../imgs/abstract-08.png) no-repeat;
+    width: 116px;
+    height: 32px;
+}
+
 .container-header {
     width: 1328px;
     max-width: calc(100vw - 48px);
@@ -73,6 +90,18 @@
 
 .clip-path-2 {
     clip-path: polygon(0 1%, 100% 0, 100% 95%, 0% 100%);
+}
+
+.clip-path-3 {
+    clip-path: polygon(0 1%, 100% 10%, 100% 100%, 0% 100%);
+}
+
+.clip-path-4 {
+    clip-path: polygon(8% 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+.clip-path-5 {
+    clip-path: polygon(0 1%, 90% 0, 100% 100%, 7% 100%);
 }
 
 .btn-play:hover .icon-play {
