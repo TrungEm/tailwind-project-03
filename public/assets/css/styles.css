@@ -64,3 +64,7 @@
 .clip-path {
     clip-path: polygon(0 0, 100% 1%, 100% 100%, 0 95%);
 }
+
+.clip-path-2 {
+    clip-path: polygon(0 1%, 100% 0, 100% 95%, 0% 100%);
+}

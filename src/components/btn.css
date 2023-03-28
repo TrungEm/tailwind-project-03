@@ -25,4 +25,19 @@
         tracking-[-0.02em]
         text-white;
     }
+
+    .btn-feature {
+        @apply inline-block
+        min-w-[134px]
+        py-[14.03px]
+        px-[10px]
+        bg-[#FFF0ED]
+        rounded
+        text-center
+        font-semibold
+        text-sm
+        leading-[1.14]
+        tracking-[-0.01em]
+        text-[#FF7B1E];
+    }
 }
