@@ -42,6 +42,12 @@
     height: 118px;
 }
 
+.decorate-05 {
+    background: url(../imgs/abstract-05.png) no-repeat;
+    width: 289px;
+    height: 206px;
+}
+
 .container-header {
     width: 1328px;
     max-width: calc(100vw - 48px);
@@ -67,4 +73,9 @@
 
 .clip-path-2 {
     clip-path: polygon(0 1%, 100% 0, 100% 95%, 0% 100%);
+}
+
+.btn-play:hover .icon-play {
+    transform: scale(1.6);
+    transition: all 0.3s;
 }
